@@ -1,3 +1,6 @@
+'テストメッセージ
+msgbox "test"
+
 '宣言
 Dim inputYear
 Dim inputMonth
